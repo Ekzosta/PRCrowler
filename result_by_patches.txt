@@ -1,0 +1,7 @@
+https://github.com/rails/rails/pull/41004/files#diff-3c9b81c772d32ff6805463595e04d8d7e9031e875ebf2f9fb964ca1a78b5e56dR37-R43
+https://github.com/rails/rails/pull/41004/files#diff-3c9b81c772d32ff6805463595e04d8d7e9031e875ebf2f9fb964ca1a78b5e56dR141-R166
+https://github.com/rails/rails/pull/41004/files#diff-50646cbd5d476624e64996685b0256c97cdd46b742ab8d3b80adce4e9663b39aR7-R14
+https://github.com/rails/rails/pull/41004/files#diff-50646cbd5d476624e64996685b0256c97cdd46b742ab8d3b80adce4e9663b39aR160-R171
+https://github.com/rails/rails/pull/41004/files#diff-50646cbd5d476624e64996685b0256c97cdd46b742ab8d3b80adce4e9663b39aR208-R225
+https://github.com/rails/rails/pull/41004/files#diff-81e1addeaf39f45506cebd2d27ee7864584389feebacc3791e5a9be96725ac0eR614-R648
+https://github.com/rails/rails/pull/41004/files#diff-210d0f245e618b7f8c6fcb53f518bd7fd343ce7e5d8c609ecfdb149418beca19R1002-R1018
